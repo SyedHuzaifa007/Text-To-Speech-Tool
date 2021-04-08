@@ -13,4 +13,4 @@ This repository contains the code for a Text To Speech Tool written in Python.
 ### Conclusion:
 - I hope that this wonderful tool will help you alot and you can also customize this amazing tool according to your need.
 - I hope you'll enjoy using it.
-- Thanks!
+### Thanks!
