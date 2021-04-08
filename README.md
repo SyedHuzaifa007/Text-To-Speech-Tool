@@ -6,5 +6,6 @@ This repository contains the code for a Text To Speech Tool written in Python.
 - **pyttsx3** is the text to speech API provided by microsoft that is also used in your computer.
 
 ### How It Works:
-- You will have to write the phrase that you want to convert into speech and have to store it in the variable <pre><code>string.
-</code></pre> 
+- You will have to write the phrase that you want to convert into speech and have to store it in the variable <pre><code>string</code></pre> 
+- Now, all the effort you will have to do is to hit the run button.
+- The tool will automatically convert your written text into speech and will save it into an **.mp3** file.
