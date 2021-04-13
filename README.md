@@ -1,5 +1,5 @@
 # Text-To-Speech-Tool
-This repository contains the code for a Text To Speech Tool written in Python.
+This repository contains the code for a Text To Speech Tool written in Python3.
 
 ### Module Used:
 - The module that is used in making this tool is the <code>**pyttsx3**</code>
